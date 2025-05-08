@@ -118,7 +118,7 @@ section > h2 {
 }
 
 .hero-text h1 {
-    font-size: 2.0em; /* Adjusted Title Size */
+    font-size: 1.6em; /* Adjusted Title Size */
     margin-bottom: 0.6em;
     font-weight: 700;
 }
@@ -176,13 +176,4 @@ section > h2 {
 .highlight-item h3 {
     font-size: 1.3em;
     margin-bottom: 0.5em;
-    color: #d32f2f; /* Dark Red Highlight Item Title */
-}
-
-.highlight-item p {
-    font-size: 0.95em;
-    color: #666;
-}
-
-/* Menu Page Styles */
-.menu-
+    color:
